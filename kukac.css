@@ -1,0 +1,153 @@
+body {
+  background-color: #394F8A;
+
+}
+
+#kocka {
+  background-color: #4A5FC1;
+  margin: 1em 5em;
+  border-radius: 100px;
+  padding: 1.1em 1.1em 0em 1.1em;
+}
+
+#idezet {
+  text-align: center;
+  color: white;
+  font-size: 1.2em;
+  padding: 2em 0 0 0;
+}
+
+#sonic1 {
+  height: 200px;
+  margin: 10px 0em 0em 20em;
+}
+
+#sonic2 {
+  height: 200px;
+  margin-top: 10px;
+}
+
+#kopasz {
+  height: 300px;
+  margin: 0em 0em 0em 30em 
+}
+
+#usain {
+  height: 300px;
+}
+
+ #kek {
+   text-align: center;
+   font-size: 4em;
+   color: white;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-style: italic;
+   padding: 0.1cm 0cm 0cm 0cm;
+ }
+
+ #kapcsolat {
+  text-align: center;
+  font-size: 5em;
+  color: rgb(0, 0, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ #leiras {
+  text-align: center;
+  font-size: 5em;
+  color: rgb(0, 0, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ li {
+ float: left;
+ display: inline;
+ padding-left: 20px;
+ }
+
+li a {
+  display: block;
+  padding: 0px 30px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+#navbar {
+  margin-left: 25em;
+  padding: 0.5em 0em;
+  background-color: #E1FCFD;
+  border-radius: 20px;
+  width: 500px;
+  margin-bottom: 15px;
+}
+
+.iras {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#kocka2 {
+  background-color: #4A5FC1;
+  margin: 1em 20em 2em 20em;
+  border-radius: 70px;
+  padding: 1em 7em 2em 7em;
+  text-align: justify;
+
+}
+
+#navbar2 {
+  margin-left: 5em;
+  padding: 0.5em 0em;
+  background-color: #E1FCFD;
+  border-radius: 20px;
+  width: 500px;
+  margin-bottom: 15px;
+}
+
+p {
+  color: white;
+  font-size: 1.5em;
+}
+
+#cucc {
+  clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 15% 100%); 
+  background-image: linear-gradient(to right, #E5B9A8, #9CF6FB); 
+  width: 700px; 
+  height: 100px; 
+  margin: auto;
+}
+
+#cucc1 {
+  clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 15% 100%); 
+  background-image: linear-gradient(to right, #E5B9A8, #9CF6FB); 
+  width: 700px; 
+  height: 100px; 
+  margin: auto;
+}
+
+#focucc {
+  clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 15% 100%); 
+  background-color: #E5B9A8;
+  width: 700px; 
+  height: 100px; 
+  margin: auto;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+#eler {
+ padding: 0em 1em;
+ text-align: left;
+}
+
+#kocka3 {
+  background-color: #4A5FC1;
+  margin: 1em 20em 2em 20em;
+  border-radius: 70px;
+  padding: 1em 7em 2em 7em;
+  text-align: justify;
+
+}
